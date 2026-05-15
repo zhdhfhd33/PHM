@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+websockets
+pydantic
+pandas
+numpy
+scipy
+pywavelets
+torch
+# shap  # XAI 기능 제외됨
+pulp
+pytest
+matplotlib
+jupyter
+tabulate
